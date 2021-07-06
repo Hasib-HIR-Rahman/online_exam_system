@@ -1,0 +1,63 @@
+.menu{
+	background-color:#f0f0f0;	
+height:620px;
+overflow:hidden;
+}
+.main{
+	margin-left:440px;
+	margin-right:440px;
+	margin-top:20px;
+	background-color: brown;
+	height:500px;
+}
+
+.logo img{
+	margin-left:125px;
+	margin-top:20px;
+}
+
+.text h2{
+	margin-left:1px;
+	margin-left:138px;
+}
+.user{
+	margin-left:125px;
+}
+.user input{
+	height: 30px;
+    margin-top: -13px;
+}
+.user input:focus{
+	border-color: #2ecc71;
+	height: 40px;
+}
+.pass{
+	margin-left:125px;
+}
+.pass  input{
+	height: 30px;
+    margin-top: -13px;
+}
+.pass input:focus{
+	border-color: #2ecc71;
+	height: 40px;
+}
+.log input{
+	margin-left: 125px;
+    width: 75px;
+    height: 25px;
+    border-block-end-style: initial;
+    background-color: cornsilk;
+}
+.signup input{
+	margin-left: 293px;
+    width: 75px;
+    height: 25px;
+    border-block-end-style: initial;
+    background-color: cornsilk;
+    margin-top: -25px;
+}
+.footer{
+	margin-left: 95px;
+    margin-top: 50px;
+}

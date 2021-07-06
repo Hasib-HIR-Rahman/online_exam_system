@@ -1,0 +1,102 @@
+.menu{
+	height: 635px;
+	overflow: hidden;
+	background-color: #f0f0f0;
+}
+.main{
+	height: 600px;
+	width: 700px;
+	background-color: lightsteelblue;
+	margin-left: 280px;
+	margin-top: 15px;
+}
+.header{
+	height: 50px;
+	background-color: darkseagreen;
+	overflow: hidden;
+}
+.header h1{
+	margin-top: 3px;
+    margin-left: 155px;
+    font-style: italic;
+    font-size: 40px;
+}
+.HEADERTEXT{
+	margin-left: 300px;
+}
+.HEADERTEXT h2{
+		margin-top: 30px;
+}
+.left{
+	float: left;
+    width: 200px;
+    height: 265px;
+    margin-left: 50px;
+    margin-top: -15px;
+    border: 1px solid gray;
+}
+.left h2{
+	margin-left: 15px;
+	font-size: 30px;
+}
+.activity{
+	width: 200px;
+}
+.activity h4{
+	margin-left: 45px;
+}
+.activity h4:hover{
+	color: gray;
+}
+.right{
+	width: 400px;
+	margin-left: 315px;
+	margin-top: 70px;
+}
+.text1{
+	margin-left: 50px;
+}
+.text2{
+	margin-left: 30px;
+}
+.text3{
+	margin-left: 50px;
+}
+.text4{
+	margin-left: 10px;
+}
+.right input{
+	height: 30px;
+    width: 80px;
+    background-clip: padding-box;
+    background-color: cadetblue;
+    margin-left: 80px;
+}
+.context{
+	margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    font-size: 15px;
+}
+.footer{
+	height: 50px;
+	background-color: darkseagreen;
+	margin-top: 60px;
+	overflow: hidden;
+}
+.footer h3{
+	margin-left: 50px;
+	margin-top: 15px;
+}
+.mail{
+	margin-left: 600px;
+	margin-top: -50px;
+}
+.fb{
+	margin-left: 450px;
+	margin-top: -40px;
+}
+.tweet{
+	margin-left: 525px;
+	margin-top: -40px;
+}

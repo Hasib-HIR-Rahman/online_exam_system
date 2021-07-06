@@ -1,0 +1,93 @@
+.main{
+	width: 700px;
+	height: 500px;
+	border: 1px solid;
+	margin: 25px auto;
+	background-color:#7C9D8C;
+}
+.header{
+	height:50px;
+	background-color: darkcyan;
+	width:700px;
+	overflow: hidden;
+}
+.header h1{
+	margin-top: 3px;
+    margin-left: 180px;
+    font-size: 40px;
+}
+.ques{
+	margin-left: 110px;
+}
+.ques h2{
+    margin-top: 20px;
+}
+.ques h3{
+	margin-left: 150px;
+    margin-top: -42px;
+}
+.wait{
+	margin-left: 450px;
+	margin-top: -43px;
+	height: 40px;
+}
+.wait b{
+	font-size: 20px;
+}
+.Quesid{
+	margin-left: 110px;
+}
+
+.Quesid h2{
+    margin-top: -10px;
+}
+.Quesid h3{
+	margin-left: 120px;
+    margin-top: -42px;
+}
+.opt1{
+	margin-left: 225px;
+    margin-top: 30px;
+}
+.opt1 h3{
+	margin-left: 40px;
+    margin-top: -17px;
+}
+.opt2{
+	margin-left: 225px;
+    margin-top: 40px;
+}
+.opt2 h3{
+	margin-left: 40px;
+    margin-top: -17px;
+}
+.opt3{
+	margin-left: 225px;
+    margin-top: 40px;
+}
+.opt3 h3{
+	    margin-left: 40px;
+    margin-top: -17px;
+}
+.opt4{
+	margin-left: 225px;
+    margin-top: 40px;
+}
+.opt4 h3{
+	    margin-left: 40px;
+    margin-top: -17px;
+}
+.quit input{
+	height: 30px;
+    margin-left: 277px;
+    width: 60px;
+    margin-top: 40px;
+	background-color: brown;
+}
+.next input{
+    height: 30px;
+    margin-left: 400px;
+    width: 60px;
+    margin-top: -30px;
+    background-color: burlywood;
+}

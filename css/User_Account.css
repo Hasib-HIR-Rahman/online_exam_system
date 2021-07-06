@@ -1,0 +1,141 @@
+.menu{
+	height: 635px;
+	overflow: hidden;
+	background-color: #f0f0f0;
+}
+.main{
+	height: 600px;
+	width: 700px;
+	background-color: lightsteelblue;
+	margin-left: 280px;
+	margin-top: 15px;
+}
+.header{
+	height: 50px;
+	background-color: darkseagreen;
+	overflow: hidden;
+}
+.header h1{
+	margin-top: 3px;
+    margin-left: 155px;
+    font-style: italic;
+    font-size: 40px;
+}
+.HEADERTEXT{
+	margin-left: 300px;
+}
+.HEADERTEXT h2{
+		margin-top: 30px;
+}
+.left{
+	float: left;
+    width: 200px;
+    height: 250px;
+    margin-left: 50px;
+    margin-top: -15px;
+    border: 1px solid gray;
+}
+.left h2{
+	margin-left: 15px;
+	font-size: 30px;
+}
+.activity{
+	width: 200px;
+}
+.activity h4{
+	margin-left: 45px;
+}
+.activity h4:hover{
+	color: gray;
+}
+.pass{
+	width: 375px;
+    margin-left: 300px;
+    height: 200px;
+    border: 1px solid;
+    margin-top: 19px;
+    background-color: #7C9DB6;
+}
+.word{
+	margin-left: 110px;
+	margin-top: -5px;
+}
+.word h3{
+	font-size: 17px;
+}
+.current{
+	margin-left: 30px;
+}
+.current h5{
+	font-size: 17px;
+}
+.current input{
+	height: 27px;
+    margin-left: 155px;
+    margin-top: -52px;
+    width: 180px;
+}
+.new{
+	margin-left: 30px;
+	margin-top: -20px;
+}
+.new h5{
+	font-size: 17px;
+}
+.new input{
+	height: 27px;
+    margin-left: 155px;
+    margin-top: -52px;
+    width: 180px;
+}
+.in{
+	margin-left: 290px;
+    margin-top: -10px
+}
+.in input{
+	height: 30px;
+    width: 75px;
+}
+.right{
+	width: 375px;
+    margin-left: 300px;
+    height: 200px;
+    border: 1px solid;
+    margin-top: 19px;
+    background-color: aqua;
+}
+.name{
+	margin-left: 100px;
+}
+.text input{
+	width: 350px;
+	height: 110px;
+	margin-left: 10px;
+}
+.inp input{
+	height: 30px;
+    width: 72px;
+    margin-left: 288px;
+}
+.pic{
+	margin-top: -275px;
+    margin-left: 50px;
+}
+.pic input{
+	margin-left: -205px;
+}
+.FOOTER{
+	float: left;
+    width: 200px;
+    height: 150px;
+    margin-left: 50px;
+    margin-top: -150px;
+    border: 1px solid black;
+}
+.FOOTER h2{
+	margin-left: 30px;
+    margin-top: 10px;
+}
+.FOOTER hr{
+	margin-top: -20px;
+}

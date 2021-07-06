@@ -1,0 +1,49 @@
+<html>
+	<head>
+		<title>Registration</title>
+		<link href="css/Registration.css" rel="stylesheet" type="text/css" />
+	</head>
+	<body background="images/exam.jpg">
+		<form action="registration.php" method="POST">
+			<div class="main">
+				<div class="header">
+					<h4>New User Registration</h4>
+					<hr>
+				</div>
+				<div class="name">
+					<h3>Name:</h3>
+					<input type="text" name="un" placeholder="Enter your name">
+				</div>
+				<div class="mail">
+					<h3>Email:</h3>
+					<input type="text" name="email" placeholder="Enter your mail">
+				</div>
+				<div class="Age">
+					<h3>Age:</h3>
+					<input type="text" name="age" placeholder="Enter your age">
+				</div>
+				<div class="gender">
+					<h3>Gender:
+					<input type="radio" name="gender" value="Male">Male
+					<input type="radio" name="gender" value="Female">Female
+				</div>
+				<div class="Password">
+					<h3>Password:</h3>
+					<input type="password" name="pass" placeholder="Enter your password">
+				</div>
+				<div class="Confirm">
+					<h3>Confirm Password:</h3>
+					<input type="password" name="con" placeholder="Enter your password again">
+				</div>
+				<div class="register">
+					<hr>
+					<input type="submit" value="Register" name="submit">
+				</div>
+				<div class="back">
+					<input type="submit" value="Back to login page" name="back">
+					<hr>
+				</div>
+			</div>
+		</form>
+	</body>
+</html>

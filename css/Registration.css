@@ -1,0 +1,77 @@
+.main{
+	background-color: #7C9D8C;
+    height: 500px;
+    width: 430px;
+    margin-left: 500px;
+    margin-top: 40px;
+	overflow:hidden;
+}
+.header h4{
+	margin-left: 125px;
+}
+.name h3{
+	margin-left:110px;
+}
+.name input{
+	margin-left: 182px;
+    height: 35;
+    width: 235;
+    margin-top: -50;
+}
+.mail h3{
+	margin-left:111px;
+}
+.mail input{
+	margin-left: 182px;
+    height: 35;
+    width: 235;
+    margin-top: -50;
+}
+.Age h3{
+	margin-left:129px;
+}
+.Age input{
+	margin-left: 182px;
+    height: 35;
+    width: 235;
+    margin-top: -50;
+}
+.gender{
+	margin-left:101px;
+}
+.gender input{
+	margin-left:25px;
+}
+.password h3{
+	margin-left:87px;
+}
+.password input{
+	margin-left: 182px;
+    height: 35;
+    width: 235;
+    margin-top: -50;
+}
+.confirm h3{
+	margin-left:15px;
+}
+.confirm input{
+    margin-left: 182px;
+    width: 235px;
+    height: 35px;
+    margin-top: -50px;
+}
+.register input{
+	margin-left: 183px;
+    height: 25px;
+    border-block-end-style: inherit;
+    margin-top: 5px;
+	background-color: cornflowerblue;
+}
+.back input{
+	margin-left: 285px;
+    height: 25px;
+    width: 130px;
+    border-block-end-style: inherit;
+    background-color: cornflowerblue;
+    margin-top: -25px;
+}

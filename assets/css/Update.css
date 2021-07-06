@@ -1,0 +1,146 @@
+.main{
+	width: 1000px;
+	height: 600px;
+	border: 1px solid;
+	margin: 25px auto;
+	background-color:#7C9D8C;
+}
+.header{
+	height:50px;
+	background-color: darkcyan;
+	width:1000px;
+	overflow: hidden;
+}
+.headertext{
+	float: left;
+	margin-left: 30px;
+	width: 300px;
+}
+.header h2{
+	font-family:italic;
+	margin-top: 17px;
+}
+.menu{
+	float: right;
+	width: 670px;
+}
+.header ul{
+	list-style: none;
+    margin-left: 100px;
+    margin-top: 20px
+}
+.header ul li{
+	float: left;
+	margin-left: 30px;
+	font-size: 22px;
+}
+.header ul li a{
+	text-decoration: none;
+	color:black;
+}
+.header ul li a:hover{
+	color: brown;
+}
+.thing{
+	width:300px;
+	float:left;
+}
+.content{
+	width: 200px;
+    margin-left: 30px;
+    height: 300px;
+    border: 1px solid;
+    margin-top: 30px;
+	background-color: darkslategrey;
+}
+.content h2{
+	margin-left:25px;
+}
+.activity{
+	margin-left: 10px;
+}
+.activity h3:hover{
+	color: white;
+}
+.right{
+	float: right;
+	width: 700px;
+}
+.right h1{
+	margin-left: 150px;
+    margin-top: 30px;
+}
+.right h3{
+	margin-left: 145px;
+}
+.text{
+	margin-left: 440px;
+}
+.text input{
+	background-color: azure;
+}
+.ques{
+	margin-top: 25px;
+	margin-left: 300px;
+}
+.ques textarea{
+	margin-left: 151px;
+    margin-top: -50px;
+    width: 400px;
+}
+.opt1{
+	margin-left: 367px;
+}
+.opt1 textarea{
+	margin-left: 110px;
+    height: 30px;
+    width: 335px;
+    margin-top: -45px;
+}
+.opt2{
+	margin-left: 367px;
+}
+.opt2 textarea{
+	margin-left: 110px;
+    height: 30px;
+    width: 335px;
+    margin-top: -45px;
+}
+.opt3{
+	margin-left: 367px;
+}
+.opt3 textarea{
+	margin-left: 110px;
+    height: 30px;
+    width: 335px;
+    margin-top: -45px;
+}
+.opt4{
+	margin-left: 367px;
+}
+.opt4 textarea{
+	margin-left: 110px;
+    height: 30px;
+    width: 335px;
+    margin-top: -45px;
+}
+.crrct{
+	margin-left: 268px;
+}
+.crrct textarea{
+	margin-left: 170px;
+    height: 30px;
+    margin-top: -50px;
+    width: 400px;
+}
+.add input{
+	height: 35px;
+    margin-left: 765px;
+    width: 70px;
+    background-color: azure;
+}
+.footer{
+	height: 25px;
+	background-color: darkcyan;
+	margin-top: 11px;
+}

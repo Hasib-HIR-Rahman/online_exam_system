@@ -1,0 +1,80 @@
+.main{
+	width: 1000px;
+	height: 600px;
+	border: 1px solid;
+	margin: 25px auto;
+	background-color:#7C9D8C;
+}
+.header{
+	height:50px;
+	background-color: darkcyan;
+	width:1000px;
+	overflow: hidden;
+}
+.headertext{
+	float: left;
+	margin-left: 30px;
+	width: 300px;
+}
+.header h2{
+	font-family:italic;
+	margin-top: 17px;
+}
+.menu{
+	float: right;
+	width: 670px;
+}
+.header ul{
+	list-style: none;
+    margin-left: 100px;
+    margin-top: 20px
+}
+.header ul li{
+	float: left;
+	margin-left: 30px;
+	font-size: 22px;
+}
+.header ul li a{
+	text-decoration: none;
+	color:black;
+}
+.header ul li a:hover{
+	color: brown;
+}
+.thing{
+	width:300px;
+	float:left;
+}
+.content{
+	width: 200px;
+    margin-left: 30px;
+    height: 300px;
+    border: 1px solid;
+    margin-top: 30px;
+	background-color: darkslategrey;
+}
+.content h2{
+	margin-left:25px;
+}
+.activity{
+	margin-left: 10px;
+}
+.activity h3:hover{
+	color: white;
+}
+.right{
+	float: right;
+	width: 700px;
+}
+.right h1{
+	margin-left: 150px;
+    margin-top: 30px;
+}
+.right h3{
+	margin-left: 145px;
+}
+.footer{
+	height: 50px;
+	background-color: darkcyan;
+	margin-top:500px;
+}

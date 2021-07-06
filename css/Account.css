@@ -1,0 +1,198 @@
+.main{
+	width: 1000px;
+	height: 600px;
+	border: 1px solid;
+	margin: 25px auto;
+	background-color:#7C9D8C;
+}
+.header{
+	height:50px;
+	background-color: darkcyan;
+	width:1000px;
+	overflow: hidden;
+}
+.headertext{
+	float: left;
+	margin-left: 30px;
+	width: 300px;
+}
+.header h2{
+	font-family:italic;
+	margin-top: 17px;
+}
+.menu{
+	float: right;
+	width: 670px;
+}
+.header ul{
+	list-style: none;
+    margin-left: 100px;
+    margin-top: 20px
+}
+.header ul li{
+	float: left;
+	margin-left: 30px;
+	font-size: 22px;
+}
+.header ul li a{
+	text-decoration: none;
+	color:black;
+}
+.header ul li a:hover{
+	color: brown;
+}
+.thing{
+	width:300px;
+	float:left;
+}
+.content{
+	width: 200px;
+    margin-left: 30px;
+    height: 300px;
+    border: 1px solid;
+    margin-top: 30px;
+	background-color: darkslategrey;
+}
+.content h2{
+	margin-left:25px;
+}
+.activity{
+	margin-left: 10px;
+}
+.activity h3:hover{
+	color: white;
+}
+.total_user{
+	width: 200px;
+    margin-left: 300px;
+    height: 120px;
+    border: 1px solid;
+    margin-top: 30px;
+	background-color: burlywood;
+}
+.total_user h3{
+	margin-left: 45px;
+}
+.total_user hr{
+	margin-top: -12px;
+}
+.total_user h4{
+	font-size: 30px;
+    margin-left: 80px;
+    margin-top: 15px;
+}
+.give_exam{
+	width: 200px;
+    margin-left: 540px;
+    height: 120px;
+    border: 1px solid;
+    margin-top: -122px;
+	background-color: darkgray;
+}
+.give_exam h3{
+	margin-left: 35px;
+}
+.give_exam hr{
+	margin-top: -12px;
+}
+.give_exam h4{
+	font-size: 30px;
+    margin-left: 80px;
+    margin-top: 15px;
+}
+.message{
+	width: 200px;
+    margin-left: 780px;
+    height: 120px;
+    border: 1px solid;
+    margin-top: -122px;
+	background-color: darkseagreen;
+}
+.message h3{
+	margin-left: 45px;
+}
+.message hr{
+	margin-top: -12px;
+}
+.message h4{
+	font-size: 30px;
+    margin-left: 80px;
+    margin-top: 15px;
+}
+.pass{
+	width: 680px;
+    margin-left: 300px;
+    height: 200px;
+    border: 1px solid;
+    margin-top: 19px;
+    background-color: #7C9D8C;
+}
+.word{
+	margin-left: 260px;
+	margin-top: -15px;
+}
+.word h3{
+	font-size: 25px;
+}
+.current{
+	margin-left: 30px;
+}
+.current h5{
+	font-size: 20px;
+}
+.current input{
+	height: 30px;
+    margin-left: 200;
+    margin-top: -64px;
+    width: 300px;
+}
+.new{
+	margin-left: 30px;
+	margin-top: -40px;
+}
+.new h5{
+	font-size: 20px;
+}
+.new input{
+	height: 30px;
+    margin-left: 200;
+    margin-top: -64px;
+    width: 300px;
+}
+.in{
+	margin-left: 455px;
+	margin-top: -25px;
+}
+.in input{
+	height: 30px;
+    width: 75px;
+}
+.question_num{
+	margin-left: 328px;
+}
+.question_num h5{
+	font-size: 20px;
+}
+.question_num input{
+	margin-left: 315px;
+    margin-top: -63px;
+    height: 30px;
+}
+.but{
+	margin-left: 225px;
+}
+.answer_time{
+	margin-left: 328px;
+	margin-top: -25px;
+}
+.answer_time h5{
+	font-size: 20px;;
+}
+.answer_time input{
+	margin-left: 315px;
+    margin-top: -63px;
+    height: 30px;
+}
+.tub{
+	margin-left: 225px;
+}

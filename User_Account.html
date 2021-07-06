@@ -1,0 +1,69 @@
+ <?php
+  session_start();
+ if(!isset($_SESSION['name']))
+ {
+	  header("Location:index.php");
+  }
+ ?>
+<html>
+	<head>
+		<title>User interface</title>
+		<link href="css/User_Account.css" rel="stylesheet" type="text/css" />
+	</head>
+	<body>
+		<form action="User_Update.php" method="POST">
+			<div class="menu">
+				<div class="main">
+					<div class="header">
+						<h1>Online Exam System</h1>
+					</div>
+					<div class="HEADERTEXT">
+						<h2>Welcome to Online Lab Exam</h2>
+					</div>
+					<div class="left">
+						<h2>Your Activity</h2>
+						<hr>
+						<div class="activity" allign="center">
+							<a href="User.php"><h4>Home</h4></a>
+							<a href="Prev_Res.php"><h4>Previous Result</h4></a>
+							<a href="User_Account.php"><h4>Account</h4></a>
+							<a href="Logout.php"><h4>Logout</h4></a>
+						</div>
+					</div>
+					<div class="pass">
+						<div class="word">
+							<h3>Change password: </h3>
+						</div>
+						<div class="current">
+							<h5>Current Password:</h5><input type="password" name="curr">
+						</div>	
+						<div class="new">
+							<h5>New Password:</h5><input type="password" name="newp">
+						</div>
+						<div class="in">
+							<input type="submit" name="sub" value="Submit">
+						</div>
+					</div>
+					<div class="right">
+						<div class="name">
+							<h3>Chat with admin</h3>
+						</div>	
+						<div class="text">
+							<input type="text" name="new">
+						</div>
+						<div class="inp">
+							<input type="submit" name="mit" value="Send">
+						</div>
+					</div>
+					<div class="FOOTER">
+						<h2>New Message</h2>
+						<hr>
+						<div class="message" allign="center">
+						
+						</div>
+					</div>
+				</div>
+			</div>
+		</form>
+	</body>
+</html>
